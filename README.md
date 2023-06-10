@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Live Deployment
 
-  Deployed on amazon ec2 : http://65.0.39.127/
+  Deployed on amazon ec2 : http://13.200.35.140/
 
 ## Development server
 
